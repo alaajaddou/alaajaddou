@@ -1,16 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Alaa M. Jaddou — Senior Software Engineer & AI + Software Architect
 
-<!--
-**alaajaddou/alaajaddou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a Senior Software Engineer with over a decade of experience, now advancing in the **AI + Software Architect** career path. I build scalable systems, smart applications, and cross-platform experiences that help businesses grow.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+
+- 🧠 **AI-Powered Applications**  
+  Crafting intelligent systems using machine learning, LLMs, and automation.
+
+- 📱 **Cross-Platform App Development (Flutter)**  
+  Developing sleek and responsive mobile & desktop apps with Flutter.
+
+- 🌐 **Web Development**  
+  Full-stack web development using modern frameworks and practices.
+
+- 📰 **Content Management Systems (CMS)**  
+  Building powerful and flexible CMS platforms tailored to content workflows.
+
+- 🏭 **Enterprise Resource Planning (ERP) Systems**  
+  Engineering robust ERP solutions for operations, finance, HR, and logistics.
+
+- ⚙️ **Scripting & Automation**  
+  Writing backend tools and scripts for DevOps, automation, and data workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,php,laravel,python,fastapi,django,mongodb,mysql,postgres,ts,js,html,css,react,nodejs,docker,nginx,linux,git)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alaajaddou&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="49.5%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaajaddou&theme=tokyonight" width="49.5%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaajaddou&layout=compact&theme=tokyonight" width="50%" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+- **ERP Suite** – Modular, scalable ERP solution for SMEs
+- **Smart Planner AI** – Intelligent planner for personal and professional productivity
+- **CMS Builder** – Laravel-based CMS engine for flexible content architecture
+- **Flutter App Suite** – Cross-platform apps in retail, logistics, and service industries
+- **ScriptLab** – Backend scripts and dev tools for automation and system tasks
+
+---
+
+## 🎯 Career Path
+
+I’m currently evolving toward an **AI + Software Architect** role — integrating intelligent design and scalable system architecture in all that I build.
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/alaa-m-jaddou-92310098)
+- 🌐 [Website](https://aj-group.ps)
+- ✉️ Email: [alaa@aj-group.ps](mailto:alaa@aj-group.ps)
+
+---
+
+> *"Code is not just about solving problems. It's about creating possibilities."*
