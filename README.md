@@ -28,7 +28,7 @@ Welcome to my GitHub! I'm a Senior Software Engineer with over a decade of exper
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,php,laravel,python,fastapi,django,mongodb,mysql,postgres,ts,js,html,css,scss,angular,nodejs,docker,nginx,linux,git)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,php,laravel,python,fastapi,django,mongodb,mysql,postgres,ts,js,html,css,scss,tailwind,angular,nodejs,docker,nginx,linux,git)
 
 ---
 
