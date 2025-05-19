@@ -28,33 +28,38 @@ Welcome to my GitHub! I'm a Senior Software Engineer with over a decade of exper
 
 ## 🛠️ Tech Stack
 
-![My Skills](https://skillicons.dev/icons?i=flutter,dart,php,laravel,python,fastapi,django,mongodb,mysql,postgres,ts,js,html,css,react,nodejs,docker,nginx,linux,git)
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,php,laravel,python,fastapi,django,mongodb,mysql,postgres,ts,js,html,css,scss,angular,nodejs,docker,nginx,linux,git)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaajaddou&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="49.5%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alaajaddou&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&line_height=25&hide_title=false&border_radius=10" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaajaddou&theme=tokyonight" width="49.5%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaajaddou&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaajaddou&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaajaddou" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-- **ERP Suite** – Modular, scalable ERP solution for SMEs
 - **Smart Planner AI** – Intelligent planner for personal and professional productivity
 - **CMS Builder** – Laravel-based CMS engine for flexible content architecture
 - **Flutter App Suite** – Cross-platform apps in retail, logistics, and service industries
 - **ScriptLab** – Backend scripts and dev tools for automation and system tasks
 
+## 💼 Primary Languages (Public + Private Work)
+
+- 🐘 PHP / Laravel (Websites + CMS backend)
+- 🐍 Python (FastAPI, scripting, AI)
+- 🧠 Dart (Flutter for mobile/desktop apps)
+- 🛠️ JavaScript / TypeScript (Web frontends)
 ---
 
 ## 🎯 Career Path
