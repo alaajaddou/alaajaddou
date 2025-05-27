@@ -4,6 +4,10 @@ Welcome to my GitHub! I'm a Senior Software Engineer with over a decade of exper
 
 ---
 
+### Mission Statement
+**Intelligent planning. Limitless results**
+---
+
 ## 🚀 What I Do
 
 - 🧠 **AI-Powered Applications**  
