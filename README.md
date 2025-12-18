@@ -37,16 +37,18 @@ Welcome to my GitHub! I'm a Senior Software Engineer with over a decade of exper
 ---
 
 ## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaajaddou&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&line_height=25&hide_title=false&border_radius=10" />
-</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaajaddou&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaajaddou" />
+</p>
+
+<p align="center">
+
+  [![roadmap.sh](https://roadmap.sh/card/wide/660b2488da1671f986fa7ca6?variant=dark&roadmaps=)](https://roadmap.sh)
+  
 </p>
 
 ---
